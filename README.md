@@ -2,7 +2,7 @@
 
 Trained language embeddings and scripts for the paper:
 
-[**Language Embeddings for Typology and Cross-lingual Transfer Learning**](). [**Dian Yu**](), [**Taiqi He**]() and [**Kenji Sagae**](). ACL 2021
+[**Language Embeddings for Typology and Cross-lingual Transfer Learning**](https://aclanthology.org/2021.acl-long.560.pdf) by [**Dian Yu**](), [**Taiqi He**]() and [**Kenji Sagae**](). ACL 2021
 
 
 ## Abstract
@@ -12,10 +12,17 @@ Cross-lingual language tasks typically requirea substantial amount of annotated 
 ## Bibtex:
 <pre>
 @inproceedings{yu-etal-2021-language,
-  title={Language Embeddings for Typology and Cross-lingual Transfer Learning},
-  author={Yu, Dian and He, Taiqi and Sagae, Kenji},
-  booktitle={Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics},
-  pages={},
-  year={2021}
+    title = "Language Embeddings for Typology and Cross-lingual Transfer Learning",
+    author = "Yu, Dian  and
+      He, Taiqi  and
+      Sagae, Kenji",
+    booktitle = "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)",
+    month = aug,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.acl-long.560",
+    doi = "10.18653/v1/2021.acl-long.560",
+    pages = "7210--7225",
 }
 </pre>
